@@ -26,7 +26,7 @@ UML Usecase diagram(Lucidchart)
 UML Class diagram (PlantUML)
 
 # Launch
-To run the Jar file in commandprompt(cmd) using java -jar FoodMora.jar There are documents for this project located at the folder.
+To run the Jar file in commandprompt(cmd) using java -jar foodmora.jar There are documents for this project located at the folder.
 
 
 
